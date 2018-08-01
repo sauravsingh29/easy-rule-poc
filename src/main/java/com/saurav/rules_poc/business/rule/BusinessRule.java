@@ -13,6 +13,4 @@ public interface BusinessRule<F> {
 
 	void then();
 
-	boolean shouldBeEvent();
-
 }

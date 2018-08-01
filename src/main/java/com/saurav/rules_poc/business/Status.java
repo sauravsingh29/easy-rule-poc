@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.saurav.rules_poc.business.rule;
+package com.saurav.rules_poc.business;
 
 /**
  * @author Saurav
